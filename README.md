@@ -8,7 +8,6 @@
 ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=redux&logoColor=764ABC)
 ![MobX](https://img.shields.io/badge/-MobX-000?style=for-the-badge&logo=mobx&logoColor=EB6719)
-![Vue](https://img.shields.io/badge/-Vue-000?style=for-the-badge&logo=vuedotjs&logoColor=41B883)
 ![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass&logoColor=CD6799)
 ![LESS](https://img.shields.io/badge/-LESS-000?style=for-the-badge&logo=less&logoColor=fff)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-000?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8)
@@ -21,8 +20,8 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=10AA50)
 
 ### Socials:
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://web.telegram.org)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/capsql)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/manucher_05)
 
 ![ManucherKM's GitHub stats](https://github-readme-stats.vercel.app/api?username=manucherKM&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manucherKM&layout=compact)
