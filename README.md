@@ -14,7 +14,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=7711F7)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-### Bekend:
+### Backend:
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=nodedotjs&logoColor=6BBF47)
 ![Express](https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=express&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=10AA50)
