@@ -17,7 +17,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=10AA50)
 
 ### Socials:
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Manucher0504)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/sad0vn1c)
 
 ![ManucherKM's GitHub stats](https://github-readme-stats.vercel.app/api?username=manucherKM&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manucherKM&layout=compact)
